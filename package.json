@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint src/",
+    "build": "webpack",
     "start": "webpack serve"
   },
   "author": "KDS",

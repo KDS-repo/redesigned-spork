@@ -19,6 +19,7 @@ This should start the server and open the application in your default browser. I
 
 js-calculator/ - Root directory of the project. Contains config files
 -dist/ - Webpack target directory. Contains packed .js file and linked .html
+-docs/ - Same files as in dist, used by github pages to host the app
 -node_modules/ - Npm module directory. Managed automatically
 -src/ - Source code for the project. Contains index.js, an entry point for Webpack
 --modules/ - Separate .js files
